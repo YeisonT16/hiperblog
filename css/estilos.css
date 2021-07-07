@@ -48,23 +48,18 @@ body
 
 #post
 {
-<<<<<<< HEAD
     background: white;
-    padding: 1em;
-}
-
-=======
     padding: 1em;
 }
 
 #footer
 {
-    background: #777;
+    background: #37488b;
+    background: ;
     color: white;
     text-align: center;
     padding: 00.5em;
 }
->>>>>>> footer
 
 
 
